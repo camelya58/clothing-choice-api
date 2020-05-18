@@ -1,4 +1,4 @@
-package com.example.clothing_choice.models;
+package com.github.camelya58.clothing_choice.models;
 
 public enum HeaddressType {
     NONE,

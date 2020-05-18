@@ -1,4 +1,4 @@
-package com.example.clothing_choice;
+package com.github.camelya58.clothing_choice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

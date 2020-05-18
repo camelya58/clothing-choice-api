@@ -1,4 +1,4 @@
-package com.example.clothing_choice.models;
+package com.github.camelya58.clothing_choice.models;
 
 import lombok.Data;
 
@@ -6,6 +6,7 @@ import java.time.LocalDateTime;
 
 @Data
 public class WeatherForecast {
+    private String id;
     private City city;
     private double temperature;
     private int windSpeed;
